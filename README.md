@@ -61,5 +61,13 @@ Real-time Processing: Continuously processes video frames to update the log and 
 Data Analysis and Visualization: Analyzes logged data to generate insights on vehicle movement patterns, peak times, and average duration of stay, with visualizations using Matplotlib and Seaborn.<br/>
 <br/>
 vehicle_movement_pattern.py : This code detects the license plate and enters the data into an excel sheet.<br/>
+![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/f2bf81a9-bc49-484c-b8f4-4aaa11dc8399)
+<br/>
+![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/2f4557c9-95b9-4c48-b02b-396ca5a2f74d)
+<br/>
 vehicle_movemnt_analysis.py : This code analyses the excel sheet produced by vehicle_movement_pattern.py and provides more detailed view of the data with visualizations.
+![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/63e9f46d-1da9-4f05-9be5-ccc10adcadee)
+<br/>
+![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/bdfca5dc-e992-400b-ad6a-bbbe376dfd1b)
 
+#
