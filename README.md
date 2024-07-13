@@ -14,8 +14,8 @@ The Campus Vehicle Monitoring System is a comprehensive solution designed to enh
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Vehicle_movement_pattern](#Vehicle_movement_pattern)
-7. [Contributing](#contributing)
-8. [Testing](#testing)
+7. [Parking_Occupancy](#Parking_Occupancy)
+8. [Vehicle_Matching](#Vehicle_Matching)
 
 # Features<br/>
 ## Vehicle Movement Patterns <br/>
@@ -70,4 +70,7 @@ vehicle_movemnt_analysis.py : This code analyses the excel sheet produced by veh
 <br/>
 ![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/bdfca5dc-e992-400b-ad6a-bbbe376dfd1b)
 
-#
+#Parking_Occupancy<br/>
+
+
+#Vehicle_Matching <br/>
