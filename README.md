@@ -77,13 +77,9 @@ vehicle_movemnt_analysis.py : This code analyses the excel sheet produced by veh
 
 # Vechile Occupancy <br/>
 Imagine a parking lot where you never have to circle endlessly searching for an empty spot. This vision becomes a reality by combining the power of embedded technology and YOLO object detection. Here's how it works:
-    > First, the location of each parking space is precisely mapped using embedded devices like sensors or markers. This creates a digital map of the parking lot.
-    > For each car detected by YOLO, the system checks if it falls within a pre-defined region of interest (ROI) corresponding to a specific parking space on the digital map. If a car is found within a designated ROI then it mention the number of remaining parking space that was not occupied and also mention what type vechile was been parked in the parking space by using the YOLO object detection.
+    First, the location of each parking space is precisely mapped using embedded devices like sensors or markers. This creates a digital map of the parking lot.<br/>
+    For each car detected by YOLO, the system checks if it falls within a pre-defined region of interest (ROI) corresponding to a specific parking space on the digital map. If a car is found within a designated ROI then it mention the number of remaining parking space that was not occupied and also mention what type vechile was been parked in the parking space by using the YOLO object detection.<br>
     
-Original Video Frame
-![image](https://github.com/user-attachments/assets/702fce53-3a97-40ea-bf47-f944f700e2fa)
-
-Object Detection Frame:
 ![image](https://github.com/user-attachments/assets/ad0cfbab-8c3b-489e-b5bb-be1a9ab3cd11)
 
 
