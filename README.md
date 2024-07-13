@@ -75,7 +75,7 @@ vehicle_movemnt_analysis.py : This code analyses the excel sheet produced by veh
 <br/>
 ![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/bdfca5dc-e992-400b-ad6a-bbbe376dfd1b)
 
-# Parking_Occupancy <br/>
+# Parking_Occupancy<br/>
 
 
 # Vehicle_Matching <br/>
