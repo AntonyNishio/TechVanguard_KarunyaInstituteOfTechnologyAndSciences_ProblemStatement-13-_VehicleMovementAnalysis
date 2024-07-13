@@ -3,10 +3,10 @@ Team Name - Tech Vanguard<br/>
 Problem Statement Number - 13<br/>
 Problem Statement - Vehicle Movement Analysis and Insight Generation in a College Campus using Edge AI <br/>
 Team Members:-<br/>
--Antony Nishio J
--Madhan L
--Tanay Arjun B
--Janaapriyan M S
+-Antony Nishio J<br/>
+-Madhan L<br/>
+-Tanay Arjun B<br/>
+-Janaapriyan M S<br/>
 <br/>
 
 # Description<br/>
