@@ -100,3 +100,4 @@ Download all the files and install the dependencies in requirements.txt
 
 Run predict.py to predict the images in the car_img folder
 
+![image](https://github.com/user-attachments/assets/28e48715-fa0c-44a3-a21d-b587e7417cb7)
