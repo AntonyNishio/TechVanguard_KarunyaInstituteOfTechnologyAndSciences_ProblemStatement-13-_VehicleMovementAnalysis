@@ -75,7 +75,7 @@ vehicle_movemnt_analysis.py : This code analyses the excel sheet produced by veh
 <br/>
 ![image](https://github.com/AntonyNishio/TechVanguard_KarunyaInstituteOfTechnologyAndSciences_ProblemStatement-13-_VehicleMovementAnalysis/assets/110011339/bdfca5dc-e992-400b-ad6a-bbbe376dfd1b)
 
-# Vechile Occupancy <br/>
+# Vehicle Occupancy <br/>
 Imagine a parking lot where you never have to circle endlessly searching for an empty spot. This vision becomes a reality by combining the power of embedded technology and YOLO object detection. Here's how it works:
     First, the location of each parking space is precisely mapped using embedded devices like sensors or markers. This creates a digital map of the parking lot.<br/>
     For each car detected by YOLO, the system checks if it falls within a pre-defined region of interest (ROI) corresponding to a specific parking space on the digital map. If a car is found within a designated ROI then it mention the number of remaining parking space that was not occupied and also mention what type vechile was been parked in the parking space by using the YOLO object detection.<br>
@@ -84,3 +84,19 @@ Imagine a parking lot where you never have to circle endlessly searching for an 
 
 
 # Vehicle_Matching <br/>
+This script is all about figuring out what kind of vehicles are in the visual data that's been provided. It uses a deep learning model called ResNet-34, which is great at understanding images.
+
+Working:
+
+First off, it sets up everything it needs, like loading libraries for handling images (cv2 and PIL) and deep learning (torch). Then, it defines how to prep each image for the ResNet model. It resizes them, crops them, and makes sure the colors are just right.
+    
+Next, the script loads a pre-trained ResNet-34 model that already knows a lot about pictures of cars. It reads class_car.json file that tells it what each type of car looks like .
+
+It looks at each picture of a car, one by one. For each picture, it utilizes the ResNet model to guess what kind of car it is. It prints out the best guess and a bunch of other possible options (top 3).
+
+Instructions:
+
+Download all the files and install the dependencies in requirements.txt
+
+Run predict.py to predict the images in the car_img folder
+
